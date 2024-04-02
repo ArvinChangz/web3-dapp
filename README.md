@@ -1,3 +1,13 @@
+## Web3 - Dapp
+
+- 目標地址可自定義輸入
+- nonce 可自定義輸入(默認顯示下一筆 nonce)
+- 礦工費使用 EIP-1559
+- 使用 React Hooks
+- 使用 TypeScript
+- 支持切换節點網路(EIP-3326、EIP-3085)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
